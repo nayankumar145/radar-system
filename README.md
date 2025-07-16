@@ -35,12 +35,14 @@ Servo Motor to Arduino:
 1. RED wire to 5V
 2. BROWN wire to GND
 3. ORANGE wire to Pin 10
+
 Mount the ultrasonic sensor on the servo motor using a glue gun for temporary attachment.
 
 Coding:
 
 Create a function to measure the distance from the sensor.
 In a loop, rotate the servo motor from left to right.
+
 Processing IDE:
 
 Open the radar code.
