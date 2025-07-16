@@ -5,6 +5,7 @@ Components and supplies
 1. SG90 Micro-servo motor
 2. Ultrasonic Sensor - HC-SR04 (Generic)
 3. Arduino UNO
+
 Apps and platforms
 
 1. Processing
@@ -17,6 +18,7 @@ Ultrasonic Sensor and Servo Motor Setup:
 2. The sensor scans the area within its range (up to 200cm).
 3. If no object is detected within a specified range (e.g., 40cm), green lines are displayed on the radar.
 4. If an object is detected within this range, red lines are displayed.
+
 Building the Project:
 
 Hardware Connections:
