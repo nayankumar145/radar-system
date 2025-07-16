@@ -27,6 +27,7 @@ Ultrasonic Sensor to Arduino:
 2. GND to GND
 3. TRIG to Pin 8
 4. ECHO to Pin 9
+   
 Servo Motor to Arduino:
 
 1. RED wire to 5V
